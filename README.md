@@ -2,20 +2,19 @@ Reminder of the key setup of my dev environment and key tools
 
 ###Editor / Terminal
 ---
-* iTerm2](#iterm2)
+* [iTerm2](#iterm2)
 * [Atom](#atom)
-  + Packages
-
-... sublime-style-column-selection => Enables Sublime style column selection with the 'alt' button
-..* atom-ternjs => autocomplete for es6
-..* atomatigit => git interaciton
-..* file-icons => file extension icons and colours
-..* language-elixir => elixir
-..* language-haml
-..* linter
-..* linter-eslint
-..* pretty-json
-..* linter-rubocop
+  + *Packages*
+  + sublime-style-column-selection => Enables Sublime style column selection with the 'alt' button
+  + atom-ternjs => autocomplete for es6
+  + atomatigit => git interaciton
+  + file-icons => file extension icons and colours
+  + language-elixir => elixir
+  + language-haml
+  + linter
+  + linter-eslint
+  + pretty-json
+  + linter-rubocop
 
   ..* #####Theme
   ..* UI Theme => One Dark ; Syntax Theme => One Dark
