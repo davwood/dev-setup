@@ -1,10 +1,9 @@
 Reminder of the key setup of my dev environment and key tools
 
-###Editor / Terminal
+#####Editor / Terminal
 ---
 * [iTerm2](#iterm2)
-* [Atom](#atom)
-  + *Packages*
+* [Atom](#atom) => text editor with great packages and themes
   + sublime-style-column-selection => Enables Sublime style column selection with the 'alt' button
   + atom-ternjs => autocomplete for es6
   + atomatigit => git interaciton
@@ -15,38 +14,40 @@ Reminder of the key setup of my dev environment and key tools
   + linter-eslint
   + pretty-json
   + linter-rubocop
+  + UI Theme => One Dark ; Syntax Theme => One Dark
 
-  ..* #####Theme
-  ..* UI Theme => One Dark ; Syntax Theme => One Dark
-
-## Layout
-- [Amethyst](http://ianyh.com/amethyst/) => auto layout helper
-
-## Command line helpers
+##### Command line helpers
+---
 - [autojump](https://github.com/wting/autojump/wiki) => a cd command that learns
 - [pow](http://pow.cx/manual.html) => super simple rack server
 
-##Environment / Helpers
+##### Environment / Helpers
+---
 - homebrew => package manager
 - git => version control
 - zsh => 
 - [OhmyZsh] (http://ohmyz.sh) => framework for zsh
 - [Dash](https://kapeli.com/dash) => doc manager
 - Alfred => Replaces spotlight. Can customise with workflows which is very handy
-
-##Databases
+- [Amethyst](http://ianyh.com/amethyst/) => auto layout helper
+-
+##### Databases
+---
 - MySQL
 - Postgres
 
-##Ruby
+##### Ruby
+---
 - ruby
 - chruby
 
-##JS
+##### JS
+---
 - [node.js](https://nodejs.org/en/)
 - nvm => node version manager
 - eslint => linting of js
 
-##Apps
+##### Apps
+---
 - [RescueTime](https://www.rescuetime.com)
 
