@@ -4,8 +4,8 @@ Reminder of the key setup of my dev environment and key tools
 ---
 - [iTerm2](#iterm2)
 - [Atom](#atom)
-..* #####Packages
-..* sublime-style-column-selection => Enables Sublime style column selection with the 'alt' button
+...-#####Packages
+... sublime-style-column-selection => Enables Sublime style column selection with the 'alt' button
 ..* atom-ternjs => autocomplete for es6
 ..* atomatigit => git interaciton
 ..* file-icons => file extension icons and colours
