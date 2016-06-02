@@ -30,7 +30,7 @@ Reminder of the key setup of my dev environment and key tools
 - [Dash](https://kapeli.com/dash) => doc manager
 - Alfred => Replaces spotlight. Can customise with workflows which is very handy
 - [Amethyst](http://ianyh.com/amethyst/) => auto layout helper
--
+
 ##### Databases
 ---
 - MySQL
