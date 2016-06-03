@@ -1,0 +1,16 @@
+[filter "media"]
+	clean = git-media-clean %f
+	smudge = git-media-smudge %f
+[user]
+	name = Dave Wood
+	email = dave.wood@blake.com.au
+[alias]
+	cb = rev-parse --symbolic-full-name --abbrev-ref HEAD
+	gp = !git push --set-upstream origin HEAD:$(git cb)
+	gup = !git fetch --prune origin && git rebase -p origin/$(git cb)
+[push]
+  default = current
+[core]
+	editor = vim
+[merge]
+	tool = opendiff
